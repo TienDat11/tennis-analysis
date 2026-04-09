@@ -1,0 +1,7 @@
+.env
+*.env
+.omc/
+__pycache__/
+*.pyc
+models/
+*.pt
